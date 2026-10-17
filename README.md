@@ -142,7 +142,7 @@ If a scheme will not match, it may have been renamed. Add an entry to `SCHEME_AL
 
 The app is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud), which runs directly from this GitHub repository.
 
-**Live link:** [PASTE YOUR STREAMLIT LINK HERE](https://your-app-name.streamlit.app)
+**Live link:** [STREAMLIT LINK](https://portfolio-xray-ks.streamlit.app/)
 
 ### Before deploying
 

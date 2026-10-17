@@ -1,0 +1,28 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+
+.DS_Store
+Thumbs.db
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local exports or private statements
+*.pdf
+*.xlsx
+*.xls
+*.csv
+# Keep the synthetic demo dataset tracked
+!data/sample_holdings.csv

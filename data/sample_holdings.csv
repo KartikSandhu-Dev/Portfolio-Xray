@@ -1,0 +1,103 @@
+fund,stock,sector,weight,expense_ratio
+Bluechip Fund,HDFC Bank,Financials,0.09,0.55
+Bluechip Fund,ICICI Bank,Financials,0.08,0.55
+Bluechip Fund,Reliance Industries,Energy,0.08,0.55
+Bluechip Fund,Infosys,Information Technology,0.07,0.55
+Bluechip Fund,TCS,Information Technology,0.06,0.55
+Bluechip Fund,Larsen & Toubro,Industrials,0.05,0.55
+Bluechip Fund,Bharti Airtel,Communication Services,0.05,0.55
+Bluechip Fund,ITC,Consumer Staples,0.05,0.55
+Bluechip Fund,Axis Bank,Financials,0.04,0.55
+Bluechip Fund,State Bank of India,Financials,0.04,0.55
+Bluechip Fund,Hindustan Unilever,Consumer Staples,0.04,0.55
+Bluechip Fund,Maruti Suzuki,Consumer Discretionary,0.04,0.55
+Bluechip Fund,Kotak Mahindra Bank,Financials,0.04,0.55
+Bluechip Fund,Sun Pharma,Healthcare,0.03,0.55
+Bluechip Fund,Bajaj Finance,Financials,0.04,0.55
+Bluechip Fund,Asian Paints,Consumer Discretionary,0.03,0.55
+Bluechip Fund,Titan Company,Consumer Discretionary,0.03,0.55
+Bluechip Fund,NTPC,Utilities,0.03,0.55
+Bluechip Fund,UltraTech Cement,Materials,0.03,0.55
+Bluechip Fund,Mahindra & Mahindra,Consumer Discretionary,0.03,0.55
+Bluechip Fund,HCL Technologies,Information Technology,0.03,0.55
+Bluechip Fund,Power Grid,Utilities,0.02,0.55
+Equity Fund,HDFC Bank,Financials,0.08,0.75
+Equity Fund,ICICI Bank,Financials,0.07,0.75
+Equity Fund,Reliance Industries,Energy,0.06,0.75
+Equity Fund,Infosys,Information Technology,0.06,0.75
+Equity Fund,Bharti Airtel,Communication Services,0.05,0.75
+Equity Fund,Larsen & Toubro,Industrials,0.04,0.75
+Equity Fund,Bajaj Finance,Financials,0.04,0.75
+Equity Fund,Maruti Suzuki,Consumer Discretionary,0.04,0.75
+Equity Fund,Sun Pharma,Healthcare,0.04,0.75
+Equity Fund,TCS,Information Technology,0.03,0.75
+Equity Fund,Mahindra & Mahindra,Consumer Discretionary,0.04,0.75
+Equity Fund,Coforge,Information Technology,0.03,0.75
+Equity Fund,Persistent Systems,Information Technology,0.03,0.75
+Equity Fund,Cholamandalam Investment,Financials,0.03,0.75
+Equity Fund,Divi's Laboratories,Healthcare,0.03,0.75
+Equity Fund,Trent,Consumer Discretionary,0.03,0.75
+Equity Fund,Eternal (Zomato),Consumer Discretionary,0.03,0.75
+Equity Fund,Dixon Technologies,Consumer Discretionary,0.03,0.75
+Equity Fund,Tata Power,Utilities,0.03,0.75
+Equity Fund,Apollo Hospitals,Healthcare,0.03,0.75
+Equity Fund,Bharat Electronics,Industrials,0.03,0.75
+Equity Fund,State Bank of India,Financials,0.03,0.75
+Equity Fund,ITC,Consumer Staples,0.03,0.75
+Equity Fund,Havells India,Industrials,0.03,0.75
+Equity Fund,Max Healthcare,Healthcare,0.03,0.75
+Equity Fund,Titan Company,Consumer Discretionary,0.03,0.75
+Growth Fund,Max Healthcare,Healthcare,0.05,0.95
+Growth Fund,Persistent Systems,Information Technology,0.05,0.95
+Growth Fund,Coforge,Information Technology,0.05,0.95
+Growth Fund,Trent,Consumer Discretionary,0.05,0.95
+Growth Fund,Cholamandalam Investment,Financials,0.05,0.95
+Growth Fund,Dixon Technologies,Consumer Discretionary,0.05,0.95
+Growth Fund,Bharat Electronics,Industrials,0.04,0.95
+Growth Fund,Indian Hotels,Consumer Discretionary,0.04,0.95
+Growth Fund,Federal Bank,Financials,0.04,0.95
+Growth Fund,Voltas,Consumer Discretionary,0.04,0.95
+Growth Fund,Polycab India,Industrials,0.04,0.95
+Growth Fund,PI Industries,Materials,0.04,0.95
+Growth Fund,Supreme Industries,Industrials,0.04,0.95
+Growth Fund,Mphasis,Information Technology,0.04,0.95
+Growth Fund,Lupin,Healthcare,0.04,0.95
+Growth Fund,Tube Investments,Industrials,0.04,0.95
+Growth Fund,Eternal (Zomato),Consumer Discretionary,0.03,0.95
+Growth Fund,Bajaj Finance,Financials,0.03,0.95
+Growth Fund,Apollo Hospitals,Healthcare,0.03,0.95
+Growth Fund,Havells India,Industrials,0.03,0.95
+Growth Fund,HDFC Bank,Financials,0.03,0.95
+Growth Fund,ICICI Bank,Financials,0.03,0.95
+Growth Fund,Page Industries,Consumer Discretionary,0.03,0.95
+Growth Fund,Mahindra & Mahindra,Consumer Discretionary,0.03,0.95
+Growth Fund,Tata Power,Utilities,0.03,0.95
+Growth Fund,Divi's Laboratories,Healthcare,0.03,0.95
+Banking Fund,HDFC Bank,Financials,0.18,0.85
+Banking Fund,ICICI Bank,Financials,0.17,0.85
+Banking Fund,State Bank of India,Financials,0.09,0.85
+Banking Fund,Axis Bank,Financials,0.09,0.85
+Banking Fund,Kotak Mahindra Bank,Financials,0.08,0.85
+Banking Fund,Bajaj Finance,Financials,0.07,0.85
+Banking Fund,Bajaj Finserv,Financials,0.04,0.85
+Banking Fund,Cholamandalam Investment,Financials,0.04,0.85
+Banking Fund,Federal Bank,Financials,0.04,0.85
+Banking Fund,IndusInd Bank,Financials,0.04,0.85
+Banking Fund,HDFC Life Insurance,Financials,0.03,0.85
+Banking Fund,SBI Life Insurance,Financials,0.03,0.85
+Banking Fund,Bank of Baroda,Financials,0.03,0.85
+Banking Fund,Shriram Finance,Financials,0.03,0.85
+Banking Fund,AU Small Finance Bank,Financials,0.04,0.85
+Technology Fund,Infosys,Information Technology,0.20,0.70
+Technology Fund,TCS,Information Technology,0.18,0.70
+Technology Fund,HCL Technologies,Information Technology,0.10,0.70
+Technology Fund,Wipro,Information Technology,0.06,0.70
+Technology Fund,Tech Mahindra,Information Technology,0.06,0.70
+Technology Fund,LTIMindtree,Information Technology,0.06,0.70
+Technology Fund,Persistent Systems,Information Technology,0.08,0.70
+Technology Fund,Coforge,Information Technology,0.07,0.70
+Technology Fund,Mphasis,Information Technology,0.05,0.70
+Technology Fund,Oracle Financial Services,Information Technology,0.04,0.70
+Technology Fund,KPIT Technologies,Information Technology,0.04,0.70
+Technology Fund,Cyient,Information Technology,0.03,0.70
+Technology Fund,Eternal (Zomato),Consumer Discretionary,0.03,0.70

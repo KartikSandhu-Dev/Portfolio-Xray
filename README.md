@@ -8,7 +8,7 @@ Portfolio X-Ray helps users look through a collection of mutual funds and unders
 
 ## Live demo
 
-**Deployed app:** [PASTE YOUR STREAMLIT LINK HERE](https://portfolio-xray-ks.streamlit.app/)
+**Deployed app:** [APP LINK](https://portfolio-xray-ks.streamlit.app/)
 
 See [Deployment](#deployment-streamlit-community-cloud) for how it was published.
 
